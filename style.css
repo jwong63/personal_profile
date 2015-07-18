@@ -1,0 +1,23 @@
+
+
+body {
+    background-image: url(colorful-triangles-background_yB0qTG6.jpg);
+    background-position:center;
+        background-size:150%;
+    background-origin: border-box;
+}
+h1 {
+    text-align: center;
+    text-underline-position: below;
+    color:cadetblue;
+    outline-color: black;
+    outline-width; 5px;
+    border-image-width: 25px; 
+    
+}
+p {
+    font-family: fantasy;
+}
+ h2 {
+     font-family:fantasy;
+ } 
